@@ -1,0 +1,15 @@
+\\Mac\Home\Projects\StudentsStatistic\StudentsStatistic\bin\Debug\net7.0\StudentsStatistic.exe
+\\Mac\Home\Projects\StudentsStatistic\StudentsStatistic\bin\Debug\net7.0\StudentsStatistic.deps.json
+\\Mac\Home\Projects\StudentsStatistic\StudentsStatistic\bin\Debug\net7.0\StudentsStatistic.runtimeconfig.json
+\\Mac\Home\Projects\StudentsStatistic\StudentsStatistic\bin\Debug\net7.0\StudentsStatistic.dll
+\\Mac\Home\Projects\StudentsStatistic\StudentsStatistic\bin\Debug\net7.0\StudentsStatistic.pdb
+\\Mac\Home\Projects\StudentsStatistic\StudentsStatistic\obj\Debug\net7.0\StudentsStatistic.csproj.AssemblyReference.cache
+\\Mac\Home\Projects\StudentsStatistic\StudentsStatistic\obj\Debug\net7.0\StudentsStatistic.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Projects\StudentsStatistic\StudentsStatistic\obj\Debug\net7.0\StudentsStatistic.AssemblyInfoInputs.cache
+\\Mac\Home\Projects\StudentsStatistic\StudentsStatistic\obj\Debug\net7.0\StudentsStatistic.AssemblyInfo.cs
+\\Mac\Home\Projects\StudentsStatistic\StudentsStatistic\obj\Debug\net7.0\StudentsStatistic.csproj.CoreCompileInputs.cache
+\\Mac\Home\Projects\StudentsStatistic\StudentsStatistic\obj\Debug\net7.0\StudentsStatistic.dll
+\\Mac\Home\Projects\StudentsStatistic\StudentsStatistic\obj\Debug\net7.0\refint\StudentsStatistic.dll
+\\Mac\Home\Projects\StudentsStatistic\StudentsStatistic\obj\Debug\net7.0\StudentsStatistic.pdb
+\\Mac\Home\Projects\StudentsStatistic\StudentsStatistic\obj\Debug\net7.0\StudentsStatistic.genruntimeconfig.cache
+\\Mac\Home\Projects\StudentsStatistic\StudentsStatistic\obj\Debug\net7.0\ref\StudentsStatistic.dll
